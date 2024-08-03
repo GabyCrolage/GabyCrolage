@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @GabyCrolage
-- 👀 I’m interested in Coding & debugging
-- 🌱 I’m currently learning Git / Docker / Nginx
-- 💞️ I’m looking to collaborate on whatever feels exciting and challenging
-- 📫 How to reach me : http://www.graab.fr
+- 👀 I’m CEO of agantar.com
+- 🌱 I’m creating web saas solutions for B2B
+- 📫 How to reach me : http://www.agantar.com
 
 <!---
 GabyCrolage/GabyCrolage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
